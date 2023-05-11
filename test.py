@@ -93,9 +93,6 @@ import time
 
 b = '000000000000000000001110011011000100110010001110011011010100111001101101110'
 a = list(b)
-print(a)
-print(b.find('1'))
-print(len(a))
 count = len(a)-(((len(a)-b.find('1'))//8)+1)*8 
 
 while count!=0:
