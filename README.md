@@ -8,3 +8,14 @@ Begin with, the program at the moment can only work with the Russian language, a
 We take our sentence that we want to encrypt in the text, and we translate this cipher into binary code, then our task is to encrypt this binary code in our main text, and for this we take our letters (a o c x p y e ), and if we need to encrypt "1", then we change the Russian letter to English, and if "0" then do not change
 
 in addition to the fact that the program can encrypt data, it will also decrypt data using the reverse algorithm
+
+
+## Getting started.
+
+Firstly upload your texst in file input.txt
+
+After, just start file main.py
+
+(Don't pay attention to the rest of the files)
+
+Good luck :)
