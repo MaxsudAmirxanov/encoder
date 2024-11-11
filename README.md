@@ -16,6 +16,8 @@ Firstly upload your texst in file input.txt
 
 After, just start file main.py
 
+![xkcd.com/1570](https://media.tenor.com/_l_5p1vtSE0AAAAM/chiens-funnyanimals.gif)
+
 (Don't pay attention to the rest of the files)
 
 Good luck :)
